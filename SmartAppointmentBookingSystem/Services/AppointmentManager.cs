@@ -11,6 +11,7 @@ namespace SmartAppointmentBookingSystem.Services
     {
         private List<Appointment> _appointments;
 
+        
         public IEnumerable<Appointment> GetAppointmentsByDate(DateTime date, List<Appointment> allAppointments)
         {
             if (allAppointments == null)
@@ -29,6 +30,38 @@ namespace SmartAppointmentBookingSystem.Services
             return _appointments.Where(a => a.Professional.Email.Equals(professionalEmail, StringComparison.OrdinalIgnoreCase));
         }
         private readonly string _appointmentsFilePath = "appointments.txt";
+
+        public async Task InitializeAsync()
+        {
+            _appointments = await LoadAppointmentsFromFileAsync();
+        }
+
+        public IEnumerable<Appointment> SearchAppointmentsByClientName(string keyword)
+        {
+            return _appointments
+                .Where(a => a.Client.Name.IndexOf(keyword, StringComparison.OrdinalIgnoreCase) >= 0);
+        }
+
+        public IEnumerable<Appointment> FilterAppointmentsByStatus(string status)
+        {
+            return _appointments
+                .Where(a => a.Status.Equals(status, StringComparison.OrdinalIgnoreCase));
+        }
+
+        public IEnumerable<Appointment> SortAppointmentsByDate(bool ascending = true)
+        {
+            return ascending
+                ? _appointments.OrderBy(a => a.AppointmentDate)
+                : _appointments.OrderByDescending(a => a.AppointmentDate);
+        }
+
+        public IEnumerable<Appointment> SortAppointmentsByClientName(bool ascending = true)
+        {
+            return ascending
+                ? _appointments.OrderBy(a => a.Client.Name)
+                : _appointments.OrderByDescending(a => a.Client.Name);
+        }
+
 
         public async Task<Appointment> CreateAppointmentAsync(User client, Professional professional, DateTime appointmentDate)
         {

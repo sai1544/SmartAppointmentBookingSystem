@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -60,7 +64,7 @@
               "RelativeDocumentMoniker": "Services\\AppointmentManager.cs",
               "ToolTip": "C:\\Users\\s\\Downloads\\Cognizant C#\\Sprint1\\SmartAppointmentBooking3\\SAB3\\SmartAppointmentBookingSystem\\Services\\AppointmentManager.cs",
               "RelativeToolTip": "Services\\AppointmentManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:13:31.416Z",
               "EditorCaption": ""
@@ -124,10 +128,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:13:31.567Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
