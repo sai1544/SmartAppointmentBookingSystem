@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s\\Downloads\\Cognizant C#\\Sprint1\\SmartAppointmentBooking3\\SAB3\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {}
+    "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s\\Downloads\\Cognizant C#\\Sprint1\\SmartAppointmentBooking3\\SAB3\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {
+    "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s\\Downloads\\Cognizant C#\\Sprint1\\SmartAppointmentBooking3\\SAB3\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
         "projectName": "SmartAppointmentBookingSystem",
-        "projectPath": "C:\\Users\\s\\Downloads\\Cognizant C#\\Sprint1\\SmartAppointmentBooking3\\SAB3\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
-        "packagesPath": "C:\\Users\\s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s\\Downloads\\Cognizant C#\\Sprint1\\SmartAppointmentBooking3\\SAB3\\SmartAppointmentBookingSystem\\obj\\",
+        "projectPath": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
+        "packagesPath": "C:\\Users\\shaik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

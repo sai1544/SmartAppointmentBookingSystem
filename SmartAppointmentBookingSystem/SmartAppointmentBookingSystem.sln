@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartAppointmentBookingSystem", "SmartAppointmentBookingSystem.csproj", "{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "..\Testing\Testing.csproj", "{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
