@@ -998,23 +998,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shaik\\.nuget\\packages\\": {},
+    "C:\\Users\\shrih\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\Testing.csproj",
+      "projectUniqueName": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\Testing\\Testing.csproj",
       "projectName": "Testing",
-      "projectPath": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\Testing.csproj",
-      "packagesPath": "C:\\Users\\shaik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\obj\\",
+      "projectPath": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\Testing\\Testing.csproj",
+      "packagesPath": "C:\\Users\\shrih\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shrih\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1029,8 +1029,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {
-              "projectPath": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj"
+            "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {
+              "projectPath": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj"
             }
           }
         }

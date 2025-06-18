@@ -1,36 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}|..\\Testing\\Testing.csproj|c:\\users\\shaik\\onedrive\\desktop\\testing\\testing\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C284773-583E-4ED4-96AB-8F6E90FE5084}|..\\NUnitTest\\NUnitTest.csproj|c:\\users\\shrih\\onedrive\\desktop\\git\\nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shaik\\onedrive\\desktop\\testing\\smartappointmentbookingsystem\\services\\appointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shrih\\onedrive\\desktop\\git\\smartappointmentbookingsystem\\services\\appointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|solutionrelative:services\\appointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shaik\\onedrive\\desktop\\testing\\smartappointmentbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shrih\\onedrive\\desktop\\git\\smartappointmentbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shaik\\onedrive\\desktop\\testing\\smartappointmentbookingsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shrih\\onedrive\\desktop\\git\\smartappointmentbookingsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shaik\\onedrive\\desktop\\testing\\smartappointmentbookingsystem\\models\\professional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shrih\\onedrive\\desktop\\git\\smartappointmentbookingsystem\\models\\professional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|solutionrelative:models\\professional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shaik\\onedrive\\desktop\\testing\\smartappointmentbookingsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shrih\\onedrive\\desktop\\git\\smartappointmentbookingsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shaik\\onedrive\\desktop\\testing\\smartappointmentbookingsystem\\utilities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shrih\\onedrive\\desktop\\git\\smartappointmentbookingsystem\\utilities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|solutionrelative:utilities\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shaik\\onedrive\\desktop\\testing\\smartappointmentbookingsystem\\smartappointmentbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|c:\\users\\shrih\\onedrive\\desktop\\git\\smartappointmentbookingsystem\\smartappointmentbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7EA3BD9E-C447-4F5A-BB59-BDF584607B98}|SmartAppointmentBookingSystem.csproj|solutionrelative:smartappointmentbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -41,32 +44,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\Testing\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\UnitTest1.cs",
-              "RelativeToolTip": "..\\Testing\\UnitTest1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\NUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\NUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NUnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T11:33:42.188Z",
+              "WhenOpened": "2025-06-18T13:20:18.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\shaik\\OneDrive\\Desktop\\Testing\\Testing\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:33:42.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Utilities\\Logger.cs",
+              "DocumentMoniker": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Utilities\\Logger.cs",
               "RelativeDocumentMoniker": "Utilities\\Logger.cs",
-              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Utilities\\Logger.cs",
+              "ToolTip": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Utilities\\Logger.cs",
               "RelativeToolTip": "Utilities\\Logger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,22 +94,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AppointmentManager.cs",
-              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Services\\AppointmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Services\\AppointmentManager.cs",
               "RelativeDocumentMoniker": "Services\\AppointmentManager.cs",
-              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Services\\AppointmentManager.cs",
+              "ToolTip": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Services\\AppointmentManager.cs",
               "RelativeToolTip": "Services\\AppointmentManager.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAIwDwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAkwKQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:13:31.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Professional.cs",
-              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Models\\Professional.cs",
+              "DocumentMoniker": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Models\\Professional.cs",
               "RelativeDocumentMoniker": "Models\\Professional.cs",
-              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Models\\Professional.cs",
+              "ToolTip": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Models\\Professional.cs",
               "RelativeToolTip": "Models\\Professional.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,11 +129,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Models\\Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Models\\Appointment.cs",
-              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Models\\Appointment.cs",
               "RelativeToolTip": "Models\\Appointment.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SmartAppointmentBookingSystem.csproj",
-              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
               "RelativeDocumentMoniker": "SmartAppointmentBookingSystem.csproj",
-              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
+              "ToolTip": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
               "RelativeToolTip": "SmartAppointmentBookingSystem.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -135,15 +153,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\Testing\\SmartAppointmentBookingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:13:31.567Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

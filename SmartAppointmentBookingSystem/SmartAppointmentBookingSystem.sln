@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartAppointmentBookingSyst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "..\Testing\Testing.csproj", "{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest", "..\NUnitTest\NUnitTest.csproj", "{5C284773-583E-4ED4-96AB-8F6E90FE5084}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF387F44-3925-48FF-8BC0-6DBC9C5BE0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C284773-583E-4ED4-96AB-8F6E90FE5084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C284773-583E-4ED4-96AB-8F6E90FE5084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C284773-583E-4ED4-96AB-8F6E90FE5084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C284773-583E-4ED4-96AB-8F6E90FE5084}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
