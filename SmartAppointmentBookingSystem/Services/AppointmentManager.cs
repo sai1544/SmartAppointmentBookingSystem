@@ -9,6 +9,7 @@ namespace SmartAppointmentBookingSystem.Services
 {
     public class AppointmentManager
     {
+        // Created by Sarath
         private List<Appointment> _appointments;
 
         
@@ -31,6 +32,7 @@ namespace SmartAppointmentBookingSystem.Services
         }
         private readonly string _appointmentsFilePath = "appointments.txt";
 
+        //Created by Simran
         public async Task InitializeAsync()
         {
             _appointments = await LoadAppointmentsFromFileAsync();
@@ -63,6 +65,7 @@ namespace SmartAppointmentBookingSystem.Services
         }
 
 
+        // Methods Are Created by Zamber sayali // Async And Await Are Created by Hemanth kumar reddy
         public async Task<Appointment> CreateAppointmentAsync(User client, Professional professional, DateTime appointmentDate)
         {
             try

@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\shrih\\.nuget\\packages\\": {},
+    "C:\\Users\\chint\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\chint\\OneDrive\\Desktop\\final\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
       "projectName": "SmartAppointmentBookingSystem",
-      "projectPath": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
-      "packagesPath": "C:\\Users\\shrih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shrih\\OneDrive\\Desktop\\Git\\SmartAppointmentBookingSystem\\obj\\",
+      "projectPath": "C:\\Users\\chint\\OneDrive\\Desktop\\final\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
+      "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chint\\OneDrive\\Desktop\\final\\SmartAppointmentBookingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\shrih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
