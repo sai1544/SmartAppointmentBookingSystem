@@ -3,6 +3,8 @@ using SmartAppointmentBookingSystem.Services;
 
 namespace Testing
 {
+    #region Member 5
+
     public class Tests
     {
         private AppointmentManager _manager;
@@ -52,4 +54,7 @@ namespace Testing
             Assert.IsTrue(appointments.Count > 0);
         }
     }
+
+
+    #endregion
 }

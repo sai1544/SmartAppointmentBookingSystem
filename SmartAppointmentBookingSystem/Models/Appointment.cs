@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartAppointmentBookingSystem.Models
 {
+    #region Member 2
     public class Appointment
     {
         public int Id { get; set; }
@@ -34,4 +35,6 @@ namespace SmartAppointmentBookingSystem.Models
         }
 
     }
+# endregion
+
 }

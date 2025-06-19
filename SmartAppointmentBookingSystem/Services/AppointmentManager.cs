@@ -9,10 +9,12 @@ namespace SmartAppointmentBookingSystem.Services
 {
     public class AppointmentManager
     {
-        // Created by Sarath
+        
+
         private List<Appointment> _appointments;
 
-        
+        #region Member 6
+
         public IEnumerable<Appointment> GetAppointmentsByDate(DateTime date, List<Appointment> allAppointments)
         {
             if (allAppointments == null)
@@ -30,9 +32,14 @@ namespace SmartAppointmentBookingSystem.Services
         {
             return _appointments.Where(a => a.Professional.Email.Equals(professionalEmail, StringComparison.OrdinalIgnoreCase));
         }
+
+        #endregion
+
         private readonly string _appointmentsFilePath = "appointments.txt";
 
-        //Created by Simran
+
+        #region Member 8
+
         public async Task InitializeAsync()
         {
             _appointments = await LoadAppointmentsFromFileAsync();
@@ -64,8 +71,12 @@ namespace SmartAppointmentBookingSystem.Services
                 : _appointments.OrderByDescending(a => a.Client.Name);
         }
 
+        #endregion
 
-        // Methods Are Created by Zamber sayali // Async And Await Are Created by Hemanth kumar reddy
+
+        #region Member 3  and Member 4
+
+
         public async Task<Appointment> CreateAppointmentAsync(User client, Professional professional, DateTime appointmentDate)
         {
             try
@@ -193,6 +204,9 @@ namespace SmartAppointmentBookingSystem.Services
         {
             throw new NotImplementedException();
         }
+
+
+        #endregion
 
     }
 }

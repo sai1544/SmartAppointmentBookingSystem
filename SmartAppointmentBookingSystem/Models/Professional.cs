@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartAppointmentBookingSystem.Models
 {
+    #region Member 2
     public class Professional:User
     {
         public string Specialty { get; set; }
@@ -17,4 +18,5 @@ namespace SmartAppointmentBookingSystem.Models
         }
 
     }
+    #endregion
 }

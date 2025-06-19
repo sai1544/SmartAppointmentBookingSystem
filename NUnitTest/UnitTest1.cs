@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 
 namespace SmartAppointmentBookingSystem.Tests
 {
+    #region Member 7
+
     [TestFixture]
     public class UnitTest1
     {
@@ -108,4 +110,7 @@ namespace SmartAppointmentBookingSystem.Tests
             }
         }
     }
+
+
+    #endregion
 }
