@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\NUnitTest\\NUnitTest.csproj": {}
+    "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\NUnitTest\\NUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\NUnitTest\\NUnitTest.csproj": {
+    "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\NUnitTest\\NUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\NUnitTest\\NUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\NUnitTest\\NUnitTest.csproj",
         "projectName": "NUnitTest",
-        "projectPath": "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\NUnitTest\\NUnitTest.csproj",
+        "projectPath": "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\NUnitTest\\NUnitTest.csproj",
         "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\NUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\NUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {
-                "projectPath": "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj"
+              "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {
+                "projectPath": "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {
+    "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
         "projectName": "SmartAppointmentBookingSystem",
-        "projectPath": "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
+        "projectPath": "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\SmartAppointmentBookingSystem\\SmartAppointmentBookingSystem.csproj",
         "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\SmartAppointmentBookingSystem\\obj\\",
+        "outputPath": "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\SmartAppointmentBookingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

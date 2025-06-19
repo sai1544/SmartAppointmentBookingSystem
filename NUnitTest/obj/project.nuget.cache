@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X+OEq2yyRGM=",
+  "dgSpecHash": "PzBzMlagJ/c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chint\\OneDrive\\Desktop\\f1\\NUnitTest\\NUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\chint\\OneDrive\\Desktop\\smart\\NUnitTest\\NUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chint\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\chint\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
